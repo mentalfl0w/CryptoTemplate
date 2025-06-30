@@ -1,0 +1,6 @@
+[submodule "3rdparty/MIRACL-Project/miraclSource"]
+	path = 3rdparty/MIRACL-Project/miraclSource
+	url = https://github.com/miracl/MIRACL.git
+[submodule "3rdparty/GmSSL"]
+	path = 3rdparty/GmSSL
+	url = https://github.com/guanzhi/GmSSL.git
